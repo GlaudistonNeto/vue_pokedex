@@ -1,5 +1,4 @@
-# pokedex
-## creation of a "pokedex" using vue.js and pokéapi
+# vue_pokedex
 
 ## Project setup
 ```
